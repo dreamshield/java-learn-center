@@ -5,8 +5,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.ericvip.learn</groupId>
-    <artifactId>base-test</artifactId>
+    <artifactId>learn-center</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <description>Java学习中心</description>
 
+    <modules>
+        <module>learn-center-base</module>
+        <module>learn-center-algorithm</module>
+        <module>learn-center-common</module>
+    </modules>
 
 </project>

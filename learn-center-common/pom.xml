@@ -9,8 +9,9 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>learn-center-base</artifactId>
-    <description>Java基础学习</description>
+    <artifactId>learn-center-common</artifactId>
+    <description>公共基础包</description>
+
 
 
 </project>
